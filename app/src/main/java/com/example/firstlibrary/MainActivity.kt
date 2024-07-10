@@ -30,7 +30,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = Color.White
                 ) {
-                    ImagePreview(painter = painterResource(id = R.drawable.cast2))
+
                 }
             }
         }
